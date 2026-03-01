@@ -1,4 +1,4 @@
-# Task 1: Exploring and Visualizing a Simple Dataset
+# Exploring and Visualizing a Simple Dataset
 
 **Organization:** DevelopersHub Corporation  
 **Domain:** Artificial Intelligence & Machine Learning  
